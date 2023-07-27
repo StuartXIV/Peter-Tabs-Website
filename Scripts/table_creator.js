@@ -82,8 +82,8 @@
                 {
                     "name": 'Just You and I',
                     "artist": 'Tom Walker',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'Just You and I - Tom Walker (Peter Episcopo)',
+                    "gp5_file": 'Just You and I - Tom Walker (Peter Episcopo)',
                     "youtube_id": '-9Sv3S5Qx3k'
                 },
                 {
@@ -106,6 +106,41 @@
                     "pdf_file": 'My Name is Mud (Peter Episcopo)',
                     "gp5_file": 'My Name is Mud Tab',
                     "youtube_id": 'VGd3WlkfuLo'
+                },
+                {
+                    "name": 'Born in Dissonance',
+                    "artist": 'Meshuggah',
+                    "pdf_file": 'Born in Dissonance - Meshuggah (Peter Episcopo)',
+                    "gp5_file": 'Born in Dissonance - Meshuggah (Peter Episcopo)',
+                    "youtube_id": 'abTdFMlk52c'
+                },
+                {
+                    "name": 'Nostrum',
+                    "artist": 'Meshuggah',
+                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
+                    "gp5_file": 'My Name is Mud Tab',
+                    "youtube_id": 'pDvNvPTBRfE'
+                },
+                {
+                    "name": 'Vermillioncore',
+                    "artist": 'Steven Wilson',
+                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
+                    "gp5_file": 'My Name is Mud Tab',
+                    "youtube_id": 'UH018N_8AeY'
+                },
+                {
+                    "name": 'Still Life in Mobile Homes',
+                    "artist": 'Japan',
+                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
+                    "gp5_file": 'My Name is Mud Tab',
+                    "youtube_id": '12jFtIpkmwE'
+                },
+                {
+                    "name": 'Vancouver',
+                    "artist": 'Jeff Buckley',
+                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
+                    "gp5_file": 'My Name is Mud Tab',
+                    "youtube_id": 'XUPrlF75He4'
                 }
             ]
 

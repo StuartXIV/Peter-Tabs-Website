@@ -3,142 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Website</title>    
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background-image: url("Images/light-bg.jpg");
-            background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            color: #0d0d0d
-        }
-        h1 {
-            letter-spacing: 5px;
-            word-spacing: 10px;
-        }
-        header {
-            text-align: center;
-            padding: 1rem;
-        }
-
-        /* NAVIGATION BAR */
-        nav {
-            text-align: center;
-            padding: 0.5rem;
-        }
-        nav a {
-            color: #0d0d0d;
-            text-decoration: none;
-            padding: 0.5rem 2rem;
-            margin: 0 1rem;
-            text-transform: uppercase;
-            font-weight: 800;
-            border: 1px solid #0d0d0d;
-        }
-        nav a:hover {
-            background-color: #0d0d0d;
-            color: white
-        }
-
-        /* TABS */
-        section {
-            padding: 2rem;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-        }
-        table {
-            border-collapse: collapse;
-        }
-        #tabs {            
-            width: 100%;
-        }
-        button {
-            background-color: #353535;
-            color: white;
-            padding: 5px;
-            border-radius: 2px;
-        }
-        button:hover{            
-            background-color: #0d0d0d;
-            color: white;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-            text-align: center;
-        }
-        th {
-            background-color: #0d0d0d;
-            color: white
-        }
-        td button:hover{
-            cursor: pointer;
-        }
-        h2 {
-            letter-spacing: 5px;
-        }
-        #tabs tr:nth-child(even) {
-            background-color: #f9f9f9;
-        }
-        #tabs tr:nth-child(odd) {
-            background-color: #fff;
-        }
-
-        /* SOCIAL MEDIA LINKS */
-        #social-media-links{
-            width: 50%;
-        }
-        #social-media-links tr{
-            background-color: none !important;
-            width: 100%
-        }
-        
-        /* FOOTER */
-        footer {
-            background-color: #000;
-            color: #fff;
-            text-align: center;
-            padding: 1rem;
-        }
-
-        /* BUY ME A COFFEE */
-        #buymeacoffee img {
-            width: 200px;
-            height: auto;
-            display: inline-block;
-            border: 3px solid #0d0d0d;
-        }
-
-        #buymeacoffee img:hover {
-            background-color: #f9f9f9;
-        }
-
-        #buymeacoffee {
-            width: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .sm-icon {
-            width: 50px
-        }
-
-    </style>
+    <title>Peter Episcopo TABS</title>   
+    <link rel="stylesheet" href="./Styles/styles.css">
+    <link rel="shortcut icon" href="https://cdn.buymeacoffee.com/uploads/profile_pictures/2023/07/evj1odV8PGN0tRuQ.jfif@300w_0e.webp@1f.png">
 </head>
 <body>
     <header>
         <h1>PETER EPISCOPO</h1>
     </header>
-    <div id="buymeacoffee">        
-        <a href="https://bmc.link/peterepiscopo" target="_blank">
-            <img src="Images/buy-me-a-coffee 2.png" alt=""></a>
+    <div id="buymeacoffeecontainer">
+        <div id="buymeacoffee">        
+            <a href="https://bmc.link/peterepiscopo" target="_blank">
+                <img src="Images/buy-me-a-coffee 2.png" alt="">
+            </a>
+        </div>
     </div>
     <!-- <nav>
         <a href="#">Home</a>
@@ -152,19 +30,28 @@
                 <th>Song Name</th>
                 <th>Artist</th>
                 <th>PDF</th>
-                <th>Guitar Pro</th>
+                <th>Guitar Pro 5</th>
                 <th>Watch Video</th>
             </tr>
         </table>
     </section>
     <section>
-        <h2 id="contact">CONTACT</h2>
+        <h2 id="contact">SOCIALS</h2>
         <table id="social-media-links">
             <tr>
                 <td>
                     <a href="https://www.facebook.com/peteralbertepiscopo/" target="_blank"><img class="sm-icon" src="Images/Social Media Icons/icons8-facebook.svg" alt="Facebook"></a>
+                </td>
+                <td>
                     <a href="https://www.instagram.com/peterepiscopo_bass/" target="_blank"><img class="sm-icon" src="Images/Social Media Icons/icons8-instagram.svg" alt="Instagram"></a>
+                </td>
+                <td>
                     <a href="https://www.linkedin.com/in/peter-episcopo-6a937378/" target="_blank"><img class="sm-icon" src="Images/Social Media Icons/icons8-linkedin.svg" alt="LinkedIn"></a>
+                </td>
+                <td>
+                    <a href="https://www.youtube.com/user/peterepiscopo" target="_blank"><img class="sm-icon" src="Images/Social Media Icons/icons8-youtube.svg" alt="YouTube"></a>
+                </td>
+                <td>
                     <a href="#"><img class="sm-icon" src="Images/Social Media Icons/icons8-tiktok.svg" alt="TikTok" target="_blank"></a>
                 </td>
             </tr>
