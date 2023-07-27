@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Website</title>
+    <title>Simple Website</title>    
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -106,10 +106,17 @@
             text-align: center;
             padding: 1rem;
         }
+
+        /* BUY ME A COFFEE */
         #buymeacoffee img {
-            width: 300px;
+            width: 200px;
             height: auto;
             display: inline-block;
+            border: 3px solid #0d0d0d;
+        }
+
+        #buymeacoffee img:hover {
+            background-color: #f9f9f9;
         }
 
         #buymeacoffee {
@@ -148,57 +155,6 @@
                 <th>Guitar Pro</th>
                 <th>Watch Video</th>
             </tr>
-            <tr>
-                <td>My Name is Mud</td>
-                <td>Primus</td>
-                <td>
-                    <a href="Tabs/PDF/My Name is Mud (Peter Episcopo).pdf" download target="_blank">
-                        <button>Download PDF</button>
-                    </a>
-                </td>
-                <td>
-                    <a href="Tabs/GP5/My Name is Mud Tab.gp5" download target="_blank">
-                        <button>Download GP5 File</button>
-                    </a>
-                </td>
-                <td>
-                    <iframe width="280" height="158" src="https://www.youtube.com/embed/92p0QDDvRU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                  
-                </td>
-            </tr>
-            <tr>
-                <td>Just You and I</td>
-                <td>Tom Walker</td>
-                <td>
-                    <a href="Tabs/PDF/My Name is Mud (Peter Episcopo).pdf" download target="_blank">
-                        <button>Download PDF</button>
-                    </a>
-                </td>
-                <td>
-                    <a href="Tabs/PDF/Tabs/GP5/My Name is Mud Tab.gp5" download target="_blank">
-                        <button>Download GP5 File</button>
-                    </a>
-                </td>
-                <td>
-                    <iframe width="280" height="158" src="https://www.youtube.com/embed/-9Sv3S5Qx3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>       
-                </td>
-            </tr>
-            <tr>
-                <td>Daydreaming</td>
-                <td>Radiohead</td>
-                <td>
-                    <a href="Tabs/PDF/Tabs/PDF/My Name is Mud (Peter Episcopo).pdf" download target="_blank">
-                        <button>Download PDF</button>
-                    </a>
-                </td>
-                <td>
-                    <a href="Tabs/PDF/Tabs/GP5/My Name is Mud Tab.gp5" download target="_blank">
-                        <button>Download GP5 File</button>
-                    </a>
-                </td>
-                <td>
-                    <iframe width="280" height="158" src="https://www.youtube.com/embed/wmL3OyMzEu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>                 
-                </td>
-            </tr>
         </table>
     </section>
     <section>
@@ -214,8 +170,10 @@
             </tr>
         </table>
     </section>
+    <form id="myForm"></form>
     <footer>
         <p>&copy; 2023 Peter Episcopo. All rights reserved.</p>
     </footer>
+    <script src="Scripts/table_creator.js"></script>
 </body>
 </html>
