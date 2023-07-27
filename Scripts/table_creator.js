@@ -75,8 +75,8 @@
                 {
                     "name": 'My Name is Mud',
                     "artist": 'Primus',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'My Name is Mud - Primus (Peter Episcopo)',
+                    "gp5_file": 'My Name is Mud - Primus (Peter Episcopo)',
                     "youtube_id": '92p0QDDvRU8'
                 },
                 {
@@ -89,22 +89,22 @@
                 {
                     "name": 'Daydreaming',
                     "artist": 'Radiohead',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'Daydreaming - Radiohead (Peter Episcopo)',
+                    "gp5_file": 'Daydreaming - Radiohead (Peter Episcopo)',
                     "youtube_id": 'wmL3OyMzEu4'
                 },
                 {
                     "name": 'Hand Cannot Erase',
                     "artist": 'Steven Wilson',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'Hand Cannot Erase - Steven Wilson (Peter Episcopo)',
+                    "gp5_file": 'Hand Cannot Erase - Steven Wilson (Peter Episcopo)',
                     "youtube_id": 'O9cQQZPu5ZY'
                 },
                 {
                     "name": 'Fratres',
                     "artist": 'Arvo Part',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'Fratres - Arvo Part (Peter Episcopo)',
+                    "gp5_file": 'Fratres - Arvo Part (Peter Episcopo)',
                     "youtube_id": 'VGd3WlkfuLo'
                 },
                 {
@@ -117,29 +117,29 @@
                 {
                     "name": 'Nostrum',
                     "artist": 'Meshuggah',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'Nostrum - Meshuggah (Peter Episcopo)',
+                    "gp5_file": 'Nostrum - Meshuggah (Peter Episcopo)',
                     "youtube_id": 'pDvNvPTBRfE'
                 },
                 {
                     "name": 'Vermillioncore',
                     "artist": 'Steven Wilson',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'Vermillioncore - Steven Wilson (Peter Episcopo)',
+                    "gp5_file": 'Vermillioncore - Steven Wilson (Peter Episcopo)',
                     "youtube_id": 'UH018N_8AeY'
                 },
                 {
                     "name": 'Still Life in Mobile Homes',
                     "artist": 'Japan',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'Still Life in Mobile Homes - Japan (Peter Episcopo)',
+                    "gp5_file": 'Still Life in Mobile Homes - Japan (Peter Episcopo)',
                     "youtube_id": '12jFtIpkmwE'
                 },
                 {
                     "name": 'Vancouver',
                     "artist": 'Jeff Buckley',
-                    "pdf_file": 'My Name is Mud (Peter Episcopo)',
-                    "gp5_file": 'My Name is Mud Tab',
+                    "pdf_file": 'Vancouver - Jeff Buckley (Peter Episcopo)',
+                    "gp5_file": 'Vancouver - Jeff Buckley (Peter Episcopo)',
                     "youtube_id": 'XUPrlF75He4'
                 }
             ]
