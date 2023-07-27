@@ -122,13 +122,6 @@
                     "youtube_id": 'pDvNvPTBRfE'
                 },
                 {
-                    "name": 'Vermillioncore',
-                    "artist": 'Steven Wilson',
-                    "pdf_file": 'Vermillioncore - Steven Wilson (Peter Episcopo)',
-                    "gp5_file": 'Vermillioncore - Steven Wilson (Peter Episcopo)',
-                    "youtube_id": 'UH018N_8AeY'
-                },
-                {
                     "name": 'Still Life in Mobile Homes',
                     "artist": 'Japan',
                     "pdf_file": 'Still Life in Mobile Homes - Japan (Peter Episcopo)',
