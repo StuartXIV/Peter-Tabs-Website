@@ -106,12 +106,12 @@ footer {
     width: 200px;
     height: 110px;
     display: inline-block;
-    background-color: #ffffcb;
+    background-color: #f9f9f986;
     transition: 0.1s;
 }
 
 #buymeacoffee img:hover {
-    background-color: #ffffbd;
+    background-color: #f9f9f9;
     width: 210px;
     transition: 0.1s;
 }
