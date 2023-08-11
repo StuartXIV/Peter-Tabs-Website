@@ -138,7 +138,7 @@
                 {
                     "name": 'One Better',
                     "artist": 'Les Claypool',
-                    "pdf_file": 'Vancouver - Jeff Buckley (Peter Episcopo)',
+                    "pdf_file": 'One Better - Les Claypool (Peter Episcopo)',
                     "gp5_file": 'One Better - Les Claypool (Peter Episcopo)',
                     "youtube_id": 'aOPJ0VbgjxM'
                 }
